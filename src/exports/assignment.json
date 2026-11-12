@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603229",
+ "ten": "PhanHaiDang",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "phd1512",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000164659.jpg",
+  "000000294379.jpg",
+  "000000314154.jpg",
+  "000000431893.jpg",
+  "000000177338.jpg",
+  "000000183176.jpg",
+  "000000302102.jpg",
+  "000000043719.jpg",
+  "000000359340.jpg",
+  "000000100510.jpg",
+  "000000130816.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_141135.jpg",
+  "face_496353.jpg",
+  "face_137371.jpg",
+  "face_264124.jpg",
+  "face_143959.jpg",
+  "face_146049.jpg",
+  "face_38721.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 45,
+   "job_id": 45,
+   "task_name": "persons-PhanHaiDang"
+  },
+  "faces": {
+   "task_id": 46,
+   "job_id": 46,
+   "task_name": "faces-PhanHaiDang"
+  }
+ }
+}
