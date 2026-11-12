@@ -42,7 +42,7 @@ Rê chuột vào đúng điểm đó và bấm phím `Q` để bật/tắt cờ 
 - Số ảnh người đã xong ở mốc phút 105: 12 / 12
 - Thời gian thực tế (phút): CP1 60 · CP2 55 · CP3 20
 - Ảnh tốn thời gian nhất là ảnh nào, vì sao?
-Ảnh `000000130816.jpg` (nhóm crowd) và ảnh `000000019754.jpg` (người lướt ván CSB). Ảnh crowd có rất nhiều khán giả nhỏ phía xa cần phân loại dưới 60 px để bỏ qua, và người phía trước che khuất người phía sau nên phải ước lượng chi tiết từng khớp. Ảnh lướt ván tư thế cơ thể nghiêng vặn xoắn, tay trước tay sau và chân bị ván che khuất cần phân biệt dụng cụ thể thao với khớp cơ thể.
+Ảnh `000000130816.jpg` (nhóm crowd) và ảnh `000000019754.jpg` (người lướt ván CSB). Ảnh crowd vì  có rất nhiều người nhỏ số lượng skeleton nhiều nhất, và người phía trước che khuất người phía sau nên phải ước lượng chi tiết từng khớp. Ảnh lướt ván (ảnh đầu tiên) tư thế cơ thể nghiêng vặn xoắn, tay trước tay sau và chân bị ván che khuất cần phân biệt dụng cụ thể thao với khớp cơ thể.
 
 ## 3. Bảng ca khó (CP1, CP2)
 
