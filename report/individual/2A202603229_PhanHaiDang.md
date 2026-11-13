@@ -8,7 +8,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 
 - Họ tên: Phan Hải Đăng
 - MSSV: 2A202603229
-- Email: dangphan151295@gmail.com
+- Email: 26ai.dangph4@vinuni.edu.vn
 - Link repository: https://github.com/phdang95/K5-L2A-DAY04-PhanHaiDang-2A202603229-KeypointPose-Student
 - Phiên bản CVAT (Help → About): 2.74.1
 - Máy: hệ điều hành Windows 11 / WSL2 · RAM 16 GB · chạy CVAT chế độ đầy đủ
